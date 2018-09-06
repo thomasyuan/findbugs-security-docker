@@ -1,6 +1,6 @@
 # findbugs-sec
 
-FindBugs + security plugin Docker container
+Spotbugs + security plugin Docker container
 
 Very much a PoC at this moment. The Dockerfile needs some love.
 
